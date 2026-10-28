@@ -1,1 +1,1 @@
-printf("this is apple")
+print("this is apple")
